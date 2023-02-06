@@ -1,6 +1,6 @@
 ---
 title: Liderando un equipo en el desarrollo de una app
-date: 2023-02-06 12:44:00 -500
+date: 2023-01-06 12:44:00 -500
 categories: [emprendimiento, app]
 tags: [aurora app, emprendimiento, app, software, equipo de trabajo, liderazgo, startup]
 #TAGS should always be lowercase
